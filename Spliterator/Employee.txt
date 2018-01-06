@@ -1,0 +1,12 @@
+John
+Travis
+manager
+100000
+Panos
+Kakos
+developer
+50000
+Michael
+Kakos
+architect
+70000
